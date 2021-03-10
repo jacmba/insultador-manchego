@@ -9,7 +9,7 @@ const LaunchRequestHandler = {
     },
     handle(handlerInput) {
         const speakOutput = 'Hartosopas, pechopalomo, botarate, bacín, hocicopato, atascaburras, estomagante,' +
-            'robasiestas, tunante, pataliebre';
+            'robasiestas, tunante, pataliebre, zamarro, zumallo, zarrapastroso, zascandil';
         return handlerInput.responseBuilder
             .speak(speakOutput)
             .getResponse();
