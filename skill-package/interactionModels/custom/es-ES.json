@@ -1,9 +1,8 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "change me",
-      "intents": [
-        {
+      "invocationName": "insulta en manchego",
+      "intents": [{
           "name": "AMAZON.CancelIntent",
           "samples": []
         },
@@ -16,16 +15,10 @@
           "samples": []
         },
         {
-          "name": "HelloWorldIntent",
+          "name": "Insultointent",
           "slots": [],
           "samples": [
-            "hello",
-            "how are you",
-            "say hi world",
-            "say hi",
-            "hi",
-            "say hello world",
-            "say hello"
+            "insulta en manchego"
           ]
         },
         {
@@ -36,5 +29,5 @@
       "types": []
     }
   },
-  "version": "1"
+  "version": "6"
 }
