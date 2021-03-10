@@ -2,8 +2,7 @@
   "interactionModel": {
     "languageModel": {
       "invocationName": "insulta en manchego",
-      "intents": [
-        {
+      "intents": [{
           "name": "AMAZON.CancelIntent",
           "samples": []
         },
@@ -30,5 +29,5 @@
       "types": []
     }
   },
-  "version": "1"
+  "version": "6"
 }
