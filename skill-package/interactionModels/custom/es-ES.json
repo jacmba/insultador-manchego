@@ -16,6 +16,13 @@
           "samples": []
         },
         {
+          "name": "Insultointent",
+          "slots": [],
+          "samples": [
+            "insulta en manchego"
+          ]
+        },
+        {
           "name": "AMAZON.NavigateHomeIntent",
           "samples": []
         }
